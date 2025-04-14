@@ -1,3 +1,6 @@
+![My Banner](source/faraway.gif)
+
+
 <div align="center">
   
   <h1>Hey there 👋, I'm Daniel</h1>
