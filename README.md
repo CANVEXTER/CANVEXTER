@@ -39,17 +39,15 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin: 0 10px;">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:youremail@example.com" style="display:inline-block; margin: 0 10px;">
+  </a><a href="mailto:youremail@example.com" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" style="display:inline-block; margin: 0 10px;">
+  </a><a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://github.com/canvexter" style="display:inline-block; margin: 0 10px;">
+  </a><a href="https://github.com/canvexter" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </div>
+
 
