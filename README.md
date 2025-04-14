@@ -21,7 +21,7 @@
 
 ---
 
-### 🎨 About Me
+<h2 align="center">🎨 About Me</h2>
 - 👨‍💻 I’m a **multi-disciplinary creator** — code, design, and art are my playgrounds.  
 - 🖌️ I love turning **ideas into visually captivating interfaces**.  
 - ⚙️ Constantly experimenting with **new tools and technologies**.  
