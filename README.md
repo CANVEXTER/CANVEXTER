@@ -21,37 +21,43 @@
 
 ---
 
-<h2 align="center">🎨 About Me</h2>
-- 👨‍💻 I’m a **multi-disciplinary creator** — code, design, and art are my playgrounds.  
-- 🖌️ I love turning **ideas into visually captivating interfaces**.  
-- ⚙️ Constantly experimenting with **new tools and technologies**.  
-- 🚀 Passionate about merging **artistic expression with innovative tech**.  
-
----
-
-### 🧰 Tools, Languages & Frameworks
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,figma,ps,ai,blender,threejs,git,github,vscode&perline=8" />
+
+  ### 🎨 About Me
+  - 👨‍💻 I’m a **multi-disciplinary creator** — code, design, and art are my playgrounds.  
+  - 🖌️ I love turning **ideas into visually captivating interfaces**.  
+  - ⚙️ Constantly experimenting with **new tools and technologies**.  
+  - 🚀 Passionate about merging **artistic expression with innovative tech**.  
+
 </div>
 
 ---
 
-### 📊 My GitHub Stats
+<div align="center">
+
+  ### 🧰 Tools, Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,figma,ps,ai,blender,threejs,git,github,vscode&perline=8" />
+  
+</div>
+
+---
 
 <div align="center">
+
+  ### 📊 My GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=canvexter&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvexter&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canvexter&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 ---
 
-### 🔗 Connect With Me
-
 <div align="center">
+
+  ### 🔗 Connect With Me
   <a href="https://linkedin.com/in/yourlinkedin">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -61,4 +67,5 @@
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
+
 </div>
