@@ -21,10 +21,10 @@
 
 <h2 align="center">🎨 About Me</h2>
 <div align="center">
-  - 👨‍💻 I’m a **multi-disciplinary creator** — code, design, and art are my playgrounds.  
-  - 🖌️ I love turning **ideas into visually captivating interfaces**.  
-  - ⚙️ Constantly experimenting with **new tools and technologies**.  
-  - 🚀 Passionate about merging **artistic expression with innovative tech**.  
+  <p>👨‍💻 I’m a <strong>multi-disciplinary creator</strong> — code, design, and art are my playgrounds.</p>
+  <p>🖌️ I love turning <strong>ideas into visually captivating interfaces</strong>.</p>
+  <p>⚙️ Constantly experimenting with <strong>new tools and technologies</strong>.</p>
+  <p>🚀 Passionate about merging <strong>artistic expression with innovative tech</strong>.</p>
 </div>
 
 <h2 align="center">🧰 Tools, Languages & Frameworks</h2>
