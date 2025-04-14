@@ -1,81 +1,59 @@
-<!-- Centered Banner (optional) -->
+<h1 align="center">Hey there 👋, I'm Daniel</h1>
+<h3 align="center">Programmer • Designer • Artist • Tech Enthusiast</h3>
+
 <p align="center">
-  <img src="https://your-banner-url.png" width="70%" alt="Personal Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Coder;UX/UI+Designer;Digital+Artist;Tech+Lover&center=true&width=440&height=45&color=00F7FF&vCenter=true">
 </p>
 
-<!-- Name & Tagline -->
-<h1 align="center">👋 Hey, I'm <span style="color:#4FC3F7;">Daniel</span></h1>
 <p align="center">
-  <em>Computer Science Student • Systems Thinker • Tech Explorer</em>
-</p>
-
-<!-- Divider -->
-<hr/>
-
-<!-- Color Palette / Mood -->
-<p align="center">
-  <span style="background-color:#2E3440; display:inline-block; width:15px; height:15px; border-radius:50%; margin:0 5px;" title="Nord Dark"></span>
-  <span style="background-color:#88C0D0; display:inline-block; width:15px; height:15px; border-radius:50%; margin:0 5px;" title="Arctic Blue"></span>
-  <span style="background-color:#BF616A; display:inline-block; width:15px; height:15px; border-radius:50%; margin:0 5px;" title="Soft Red"></span>
-  <span style="background-color:#A3BE8C; display:inline-block; width:15px; height:15px; border-radius:50%; margin:0 5px;" title="Mint Green"></span>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
 
-## 🧭 Who I Am
-
-- 🎓 I'm a **Computer Science student** with a philosophical mind and an objective way of thinking.
-- 💡 I explore fields from **AI & machine learning** to **digital art**, while keeping things minimal and organic.
-- 🔍 Deep focus, sharp reasoning, and clean learning loops define my process.
-
----
-
-## 🌐 My Ecosystem
-
-| Role | Tools / Platforms |
-|------|-------------------|
-| 👨‍💻 Developer | `Node.js`, `React`, `TensorFlow.js`, `Python` |
-| 🎨 Digital Artist (in progress) | `Ibis Paint`, `Tukzer Stylus`, `Perspective Basics` |
-| 🧠 Learner | `Coursera`, `YouTube`, `Papers`, `Projects` |
-| 🌍 Hosting | GitHub Pages, Vercel, Netlify |
+### 🎨 About Me
+- 👨‍💻 I’m a **multi-disciplinary creator** — code, design, and art are my playgrounds.
+- 🖌️ I love turning **ideas into visually captivating interfaces**.
+- ⚙️ Constantly experimenting with **new tools and technologies**.
+- 🚀 Passionate about merging **artistic expression with innovative tech**.
 
 ---
 
-## 📁 Current Projects
-
-- 🧠 **AI Web App** – Facial emotion recognition using TensorFlow.js  
-- 🌱 **Carbon Tracker** – Sustainable lifestyle tool with custom suggestions  
-- 🖼️ **Visual Archive** – Curated image gallery + personal art uploads
-
----
-
-## 📫 Connect With Me
-
+### 🧰 Tools, Languages & Frameworks
 <p align="center">
-  <a href="https://github.com/yourhandle"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,figma,ps,ai,blender,threejs,git,github,vscode&perline=8" />
 </p>
 
 ---
 
-> “Knowledge without application is useless. Application without contemplation is chaos.”
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="45%">
+</p>
 
 ---
 
-## 🔖 Philosophy in Practice
-
-> I don’t just **consume** knowledge — I **refactor** it.  
-> I prefer **principles over trends**, and simplicity over noise.
-
----
-
-## 🔭 Future Goals
-
-- ☑️ Build tools that solve real human problems  
-- ☑️ Master cross-disciplinary design  
-- ☑️ Settle abroad with balance between tech, health, and clarity  
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
 ---
 
-Would you like me to fill in the real links, current projects, or tweak the tone to sound more professional or casual?
+<!-- Optional: Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="profile view count" />
+</p>
