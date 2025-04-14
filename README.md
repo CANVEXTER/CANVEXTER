@@ -30,7 +30,7 @@
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canvexter&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=canvexter&theme=tokyonight" width="45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvexter&theme=tokyonight" width="45%">
 </p>
 
