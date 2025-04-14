@@ -65,11 +65,7 @@
 
 ---
 
-<!-- Optional: Contribution Snake Animation -->
+<!-- 🐍 Snake Contribution Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/canvexter/canvexter/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=canvexter&style=flat-square&color=blue" alt="profile view count" />
+  <img src="https://github.com/canvexter/canvexter/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
