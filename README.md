@@ -1,4 +1,4 @@
-![My Banner](source/faraway.gif)
+![My Banner](source/far_away.gif)
 
 
 <div align="center">
