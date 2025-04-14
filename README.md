@@ -29,10 +29,12 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canvexter&theme=tokyonight" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvexter&theme=tokyonight" width="45%">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=canvexter&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="max-width: 100%;" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvexter&theme=tokyonight" alt="GitHub Streak" style="max-width: 100%;" />
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="45%">
