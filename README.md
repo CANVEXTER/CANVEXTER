@@ -3,19 +3,7 @@
   <h1>Hey there 👋, I'm Daniel</h1>
   <h3>Programmer • Designer • Artist • Tech Enthusiast</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Coder;UX/UI+Designer;Digital+Artist;Tech+Lover&center=true&width=440&height=45&color=00F7FF&vCenter=true" alt="Typing animation" />
-
-  <br />
-
-  <a href="https://github.com/canvexter">
-    <img src="https://img.shields.io/github/followers/canvexter?label=Follow&style=social" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Coder;Designer;Digital+Artist;Tech+Lover&center=true&width=440&height=45&color=00F7FF&vCenter=true" alt="Typing animation" />
 
 </div>
 
