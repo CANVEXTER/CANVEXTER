@@ -3,10 +3,10 @@
 
 <div align="center">
   
-  <h1>Hey there 👋, I'm Daniel</h1>
+  <h1>Hey there 👋, I'm Canvexter</h1>
   <h3>Programmer • Designer • Artist • Tech Enthusiast</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative+Coder;Designer;Digital+Artist;Tech+Lover&center=true&width=440&height=45&color=00F7FF&vCenter=true" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Canvexter;Creative+Coder;Designer;Digital+Artist;Tech+Lover&center=true&width=440&height=45&color=00F7FF&vCenter=true" alt="Typing animation" />
 
 </div>
 
@@ -50,6 +50,12 @@
     <a href="https://x.com/canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
     <a href="https://www.youtube.com/@canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
     <a href="https://www.threads.net/@canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
+</div>
+<br><br>
+
+<h2 align="center">☕ Support Me</h2>
+<div align="center">
+<a href="https://www.buymeacoffee.com/canvexter"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" /></a>
 </div>
 
 
