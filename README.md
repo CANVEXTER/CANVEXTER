@@ -33,8 +33,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=canvexter&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canvexter&theme=tokyonight" alt="GitHub Streak" />
-  <br /><br />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canvexter&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
