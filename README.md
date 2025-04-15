@@ -22,9 +22,11 @@
 
 <br />
 
-<h2 align="center">🧰 Tools, Languages & Frameworks</h2>
+<h2 align="center">⚙️ Tools, Languages & Frameworks</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,figma,ps,ai,blender,threejs,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,vscode,git,figma,blender,linux" />
 </div>
 
 <br />
@@ -41,15 +43,13 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <div align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a><a href="mailto:youremail@example.com" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a><a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a><a href="https://github.com/canvexter" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+    <a href="https://github.com/canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="https://instagram.com/canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+    <a href="https://linkedin.com/in/canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="https://stackoverflow.com/users/canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+    <a href="https://x.com/canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+    <a href="https://www.youtube.com/@canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+    <a href="https://www.threads.net/@canvexter"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /></a>
 </div>
 
 
